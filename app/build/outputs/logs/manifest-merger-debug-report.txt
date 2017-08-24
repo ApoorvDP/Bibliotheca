@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:8:22-78
+uses-sdk
+ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:10:5-12:41
+	android:targetSdkVersion
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:12:9-38
+		INJECTED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:11:9-35
+		INJECTED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:14:5-42:19
+	android:label
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:16:9-46
+	android:theme
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.apoorv.bibliotheca.MainActivity
+ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:20:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.apoorv.bibliotheca.FileChooser
+ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:28:9-29:20
+	android:name
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:28:19-68
+activity#com.apoorv.bibliotheca.BookView
+ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:32:13-61
+	android:name
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:31:13-59
+activity#com.apoorv.bibliotheca.DataView
+ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:34:9-37:20
+	android:label
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:36:13-61
+	android:name
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:35:13-59
+activity#com.apoorv.bibliotheca.AudioView
+ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:40:13-62
+	android:name
+		ADDED from /home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/AndroidManifest.xml:39:13-60

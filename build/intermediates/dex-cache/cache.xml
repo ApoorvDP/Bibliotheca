@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Apoorv\Documents\Android Studio\EPUBReader\app\libs\epublib-core-latest.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca916295c8af907b0c2d877b5f3a392e5ceb80ea">
+        <dex dex="C:\Users\Apoorv\Documents\Android Studio\EPUBReader\app\build\intermediates\pre-dexed\debug\epublib-core-latest_03286e2a79e0e59845093cf5e7ec3bd576d3c7b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Apoorv\Documents\Android Studio\EPUBReader\app\libs\slf4j-android-1.6.1-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1">
+        <dex dex="C:\Users\Apoorv\Documents\Android Studio\EPUBReader\app\build\intermediates\pre-dexed\debug\slf4j-android-1.6.1-RC1_c2d0390b7acb1396a96cf723ecf7376a33483591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Apoorv\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Apoorv\Documents\Android Studio\EPUBReader\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_f2a520516ed65abf991724823f29fd2bd92914ef.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/menu/data_view.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/menu/data_view.xml"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/menu/split_panel.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/menu/split_panel.xml"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/menu/audio_view.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/menu/audio_view.xml"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/menu/book_view.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/menu/book_view.xml"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/menu/file_chooser.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/menu/file_chooser.xml"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/menu/tocview.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/menu/tocview.xml"
+    }
+]

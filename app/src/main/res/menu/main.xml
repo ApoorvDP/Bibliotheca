@@ -1,0 +1,69 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/Open" android:title="@string/open">
+        <menu>
+            <item android:id="@+id/FirstEPUB" android:title="@string/Open_Book_1"/>
+            <item android:id="@+id/SecondEPUB" android:title="@string/Open_Book_2"/>
+        </menu>
+    </item>
+    <item android:id="@+id/Fullscreen" android:title="@string/fullscreen"></item>
+    <item
+        android:id="@+id/Autoscroll"
+        android:title="@string/autoscroll">
+        <menu>
+            <item android:id="@+id/EnableAutoScroll" android:title="@string/Enable_Autoscroll"/>
+            <item android:id="@+id/DisableAutoScroll" android:title="@string/Disable_Autoscroll"/>
+        </menu>
+    </item>
+    <!--
+    <item
+        android:id="@+id/NightMode"
+        android:title="@string/nightmode">
+        <menu>
+            <item android:id="@+id/EnableNightMode" android:title="@string/Enable_Night_Mode"/>
+            <item android:id="@+id/DisableNightMode" android:title="@string/Disable_Night_Mode"/>
+        </menu>
+    </item>\
+    -->
+    <item android:id="@+id/Synchronize" android:title="@string/Toggle_Sync_Views" android:visible="false"></item>
+    <item android:id="@+id/Align" android:title="@string/Reset_Sync_Views" android:visible="false">
+        <menu>
+            
+            <item android:id="@+id/PconS" android:title="@string/Sync_Book_1_with_Book_2"/>
+            <item android:id="@+id/SconP" android:title="@string/Sync_Book_2_with_Book_1"/>
+        </menu>
+    </item>
+   
+    <item android:id="@+id/Metadata" android:title="@string/Show_Metadata">
+        <menu>
+            <item android:id="@+id/meta1" android:title="@string/Book_1" android:visible="false"/>
+            <item android:id="@+id/meta2" android:title="@string/Book_2" android:visible="false"/>           
+        </menu>
+    </item>
+    <item android:id="@+id/tableOfContents" android:title="@string/Table_of_Contents">
+        <menu>
+            <item android:id="@+id/toc1" android:title="@string/Book_1" android:visible="false"/>
+            <item android:id="@+id/toc2" android:title="@string/Book_2" android:visible="false"/>
+        </menu>
+    </item>
+    <item android:id="@+id/changeSize" android:title="@string/Change_Size" android:visible="true" android:checkable="false">
+    </item>
+    <item android:id="@+id/Style" android:title="@string/changeStyle" android:visible="true">
+        <menu>
+            <item android:id="@+id/StyleBook1" android:title="@string/Book_1" android:visible="false"/>
+            <item android:id="@+id/StyleBook2" android:title="@string/Book_2" android:visible="false"/>
+        </menu>
+    </item>
+    <item android:id="@+id/SyncScroll" android:title="@string/syncScroll" android:visible="false"></item>
+    <item android:id="@+id/Front" android:title="@string/Enable_Parallel_Texts" android:visible="false">
+        <menu>
+            <item android:id="@+id/FirstFront" android:title="@string/From_Book_1" android:visible="false"/>
+            <item android:id="@+id/SecondFront" android:title="@string/From_Book_2" android:visible="false"/>
+        </menu>
+    </item>
+    <item android:id="@+id/audio" android:title="@string/audio" android:visible="false">
+        <menu>
+            <item android:id="@+id/firstAudio" android:title="@string/Book_1"/>
+            <item android:id="@+id/secondAudio" android:title="@string/Book_2"/>
+        </menu>
+    </item>
+</menu>

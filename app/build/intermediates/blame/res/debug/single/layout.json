@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/layout/change_css.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/layout/change_css.xml"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/layout/activity_split_panel.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/layout/activity_split_panel.xml"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/layout/activity_audio_view.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/layout/activity_audio_view.xml"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/layout/set_panel_size.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/layout/set_panel_size.xml"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/layout/activity_data_view.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/layout/activity_data_view.xml"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/layout/file_chooser_layout.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/layout/file_chooser_layout.xml"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/layout/activity_book_view.xml",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/layout/activity_book_view.xml"
+    }
+]

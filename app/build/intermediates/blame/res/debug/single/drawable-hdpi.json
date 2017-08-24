@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher4.png",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/drawable-hdpi/ic_launcher4.png"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher2.png",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/drawable-hdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher1.png",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/drawable-hdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/home/apoorv/Documents/Android Studio/EPUBReader/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher3.png",
+        "source": "/home/apoorv/Documents/Android Studio/EPUBReader/app/src/main/res/drawable-hdpi/ic_launcher3.png"
+    }
+]
